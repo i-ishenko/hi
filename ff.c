@@ -21,6 +21,6 @@ void main()
 		min = a;
 
 	}
-	printf("Большое число = %.2f\n", max);
+	printf("Большое число = %.2f\n", max);//hh
 	printf("Меньшее число = %.2f\n", min);
 }
