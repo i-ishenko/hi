@@ -8,9 +8,9 @@ void main()
 	float b;
 	float min;
 	float max;
-	printf("Введите первое число = ");
+	printf("Введите первое число = ");//1234
 	scanf_s("%f", &a);
-	printf("Введите второе число = ");
+	printf("Введите второе число = ");//hhh
 	scanf_s("%f", &b);//рш
 	if (a > b) {
 		max = a;
