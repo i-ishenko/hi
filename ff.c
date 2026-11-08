@@ -13,7 +13,7 @@ void main()
 	printf("Введите второе число = ");//hhh
 	scanf_s("%f", &b);//рш
 	if (a > b) {
-		max = a;//ggggg
+		max = a;
 		min = b;
 	}
 	else {
