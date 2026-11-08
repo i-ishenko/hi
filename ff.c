@@ -11,7 +11,7 @@ void main()
 	printf("Введите первое число = ");
 	scanf_s("%f", &a);
 	printf("Введите второе число = ");
-	scanf_s("%f", &b);
+	scanf_s("%f", &b);//рш
 	if (a > b) {
 		max = a;
 		min = b;
